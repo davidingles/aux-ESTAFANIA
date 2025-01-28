@@ -16,8 +16,8 @@ const Models = [
   // { title: 'antorcha1', url: './antorcha1.glb', miEscala: .5, miPosicion: -0.3 },
   // { title: '1g0004', url: './1g0004.glb', miEscala: .6, miPosicion: .0 },
   {
-    title: 'ESTEFANIA', url: './ESTEFANIA.glb', miEscala: .2
-    , miPosicion: -.4
+    title: 'ESTEFANIA', url: './ESTEFANIA.glb', miEscala: 1
+    , miPosicion: -.0
   },
 
   // { title: 'CESTA1', url: './CESTA1.glb', miEscala: .9, miPosicion: -.3 },
